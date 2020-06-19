@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54475" started-at="2020-06-14T16:15:46Z" finished-at="2020-06-14T16:16:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54475" started-at="2020-06-14T16:15:46Z" finished-at="2020-06-14T16:16:40Z">
+      <class name="teligram.teligram_s.App">
+        <test-method status="PASS" signature="setup()[pri:0, instance:teligram.teligram_s.App@1fbc7afb]" name="setup" is-config="true" duration-ms="8454" started-at="2020-06-14T21:45:46Z" finished-at="2020-06-14T21:45:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="teligram()[pri:0, instance:teligram.teligram_s.App@1fbc7afb]" name="teligram" duration-ms="45843" started-at="2020-06-14T21:45:54Z" finished-at="2020-06-14T21:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teligram -->
+        <test-method status="PASS" signature="close()[pri:0, instance:teligram.teligram_s.App@1fbc7afb]" name="close" is-config="true" duration-ms="137" started-at="2020-06-14T21:46:40Z" finished-at="2020-06-14T21:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- teligram.teligram_s.App -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
